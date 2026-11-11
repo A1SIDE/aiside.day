@@ -1,6 +1,4 @@
-[![AISIDE — Small ideas. Real possibilities.](assets/aiside-promo-cover.png)](https://github.com/A1SIDE/aiside.day/releases/download/updates-2026-11-11/aiside-promo.mp4)
-
-[Watch the 40-second film](https://github.com/A1SIDE/aiside.day/releases/download/updates-2026-11-11/aiside-promo.mp4) · [Explore AISIDE](https://aiside.day/en)
+https://github.com/user-attachments/assets/34fdb825-1e12-41a5-bebb-5e71eec65296
 
 # AISIDE
 
