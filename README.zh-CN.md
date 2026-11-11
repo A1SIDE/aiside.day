@@ -1,50 +1,63 @@
-https://github.com/user-attachments/assets/f6b48da8-5ca4-4822-bf9a-7322c0dec823
+https://github.com/user-attachments/assets/81f2ff8e-ca82-46ed-b3dc-58e0dfc8f36e
 
-# AISIDE
+# AISIDE · 看懂真实生意，找到下一步机会
 
 **小生意，大可能。**
 
-研究真实的线上产品如何赚钱：谁在付费，第一批客户从哪里来，以及有哪些思路值得自己尝试。
+一款产品为什么有人买？客户从哪里来？收入背后是什么交付和收费方式？AISIDE 把深度报告、经营数据、增长分析和 AI 变现案例放在一起，帮你从“这个产品有意思”，往下看到“这门生意怎么做”。
 
-[访问 AISIDE](https://aiside.day/zh) · [阅读示例报告](https://aiside.day/zh/reports/promptwise) · [查看产品更新](https://aiside.day/zh/changelog) · [提交反馈](https://github.com/A1SIDE/aiside.day/issues/new/choose)
+[浏览深度报告](https://aiside.day/zh/reports) · [先读一篇 PromptWise](https://aiside.day/zh/reports/promptwise) · [AI 变现案例](https://aiside.day/zh/cases) · [English](README.md)
 
-[English](README.md) · **简体中文**
+| **1,500+** | **2,100+** | **7,800+** | **32** |
+| :--- | :--- | :--- | :--- |
+| 双语深度报告 | AI 变现案例 | 产品档案 | 每周探索 |
 
-## 从发现产品，到看懂生意
+2026-11-11 目录快照：1,502 篇报告、2,104 个可展示案例、7,824 款产品。中英文为同一篇报告，不重复计数。
 
-AISIDE 帮助独立开发者和创业者发现产品、研究商业模式，找到值得进一步验证的方向。
+## 一篇深度报告，究竟能看到什么？
 
-研究报告结合商业分析、来源表、图表和参考资料，帮助你理解产品背后的故事，也方便进一步查看依据。
+[![PromptWise 报告内容：收入变化、收费方式、流量入口与22条来源](assets/report-depth-zh.png)](https://aiside.day/zh/reports/promptwise)
 
-| 内容 | 你可以了解什么 |
+看见收入，只是开始。更值得研究的是：**它卖了什么、谁愿意付钱、客户怎么来、哪些做法值得自己试。**
+
+| 往下看什么 | 报告里具体研究什么 |
 | --- | --- |
-| [产品洞察与研究报告](https://aiside.day/zh/reports) | 产品解决什么问题、谁会购买、如何收费，以及如何获取客户。 |
-| [AI 变现周刊](https://aiside.day/zh/weekly) | 来自 Reddit、X 和 YouTube 的 AI 商业案例与实践。 |
-| [Agent 接入](https://aiside.day/zh/agent) | 如何在你的 Agent 工作流中使用 AISIDE 的研究内容。 |
+| **产品与买家** | 产品交付什么，谁在用，它替客户解决哪件事。 |
+| **收入与定价** | 已披露的营收、MRR、订阅层级与用量收费，保留口径和日期。 |
+| **获客与增长** | 流量渠道、搜索入口、创作者社区，以及能看到的具体动作。 |
+| **经营时间线** | 上线、内容、定价和经营节点如何串起来。 |
+| **可以借鉴什么** | 哪个做法值得带回自己的产品或服务中验证。 |
+| **原始资料** | 来源链接、数据表、图表与事实依据，方便继续查证。 |
 
-网站支持[中文](https://aiside.day/zh)和[英文](https://aiside.day/en)。当前会员方案与访问权限见[定价页面](https://aiside.day/zh/pricing)。
+**先读 [PromptWise](https://aiside.day/zh/reports/promptwise)：8 个章节，22 条来源。** 从多模型创作工作流，到“订阅 + 积分加购”，再到逐月收入和流量渠道，把一门具体生意逐层拆开。上图按报告中的历史数据重新整理，并非实时看板或网站截图。
 
-## 先读一篇报告
+再看看 [Stan](https://aiside.day/zh/reports/stan)、[Postiz](https://aiside.day/zh/reports/postiz)，或进入[完整研究库](https://aiside.day/zh/reports)做对照。不同产品的资料完整度不同，没有披露的数据会保留未知。
 
-**[PromptWise：整合多种模型的 AI 创作工作台](https://aiside.day/zh/reports/promptwise)**
+## 2,100+ 个案例，看别人具体怎么试
 
-看看一个整合图像、视频和音频模型的产品，如何服务创作者，如何设计订阅与积分收费，以及如何借助创作者社区获得增长。
+[![跨平台案例研究：YouTube、Reddit、X与32期每周探索](assets/case-library-zh.png)](https://aiside.day/zh/weekly)
 
-再到[研究报告库](https://aiside.day/zh/reports)，比较其他产品获取客户和创造收入的方式。
+有些案例让你看到一个可以交付的服务，有些让你看到客户真正头疼的问题，还有些让你看到钱花出去了，生意却没跑通。重点始终是：**做什么、卖给谁、怎么交付、钱怎么收、成本怎么算。**
 
-## 产品更新与用户反馈
+- **YouTube：**看演示、工作流，以及别人如何完成交付。
+- **Reddit：**看需求、经营卡点和真实讨论。
+- **X：**看创作者的一线尝试、获客动作与经营记录。
+- **[每周探索](https://aiside.day/zh/weekly)：**围绕一个具体生意问题，把案例、机会分析和来源串起来。
 
-这里是 AISIDE 官方的**社区与产品更新仓库**，用于发布更新说明、收集用户反馈。此仓库不提供网站应用的源代码。
+案例包含经营尝试与作者自述；收录不代表已经盈利，也不代表收入都经过独立核验。
 
-- **关注更新：**查看 [GitHub Releases](https://github.com/A1SIDE/aiside.day/releases) 或[网站更新日志](https://aiside.day/zh/changelog)。点击 GitHub 的 **Watch → Custom → Releases**，可以订阅版本更新通知。
-- **报告问题：**[新建 Issue](https://github.com/A1SIDE/aiside.day/issues/new/choose)，附上出问题的页面、实际表现和预期结果。
-- **提出功能建议：**描述你想完成的任务，以及这项改进能带来什么帮助。
-- **纠正报告或推荐产品：**附上相关页面或产品链接；如有参考来源，也欢迎一并提供。
+## 把研究带进自己的工作流
 
-欢迎使用**中文或英文**反馈。提交前请先搜索[已有 Issues](https://github.com/A1SIDE/aiside.day/issues)，并避免在公开 Issue 中填写账号隐私、密钥或支付信息。
+用[中文](https://aiside.day/zh)或[英文](https://aiside.day/en)阅读，收藏值得继续研究的产品；通过 [Agent / MCP](https://aiside.day/zh/agent) 连接自己的工具，检索产品与案例、按章节阅读报告、查询已记录的经营指标。接入使用账户授权，权限和额度由服务端校验。
 
-如果 AISIDE 对你的研究有帮助，欢迎点个 ⭐，方便以后找到，也帮助更多人发现这个项目。
+[开始读报告 →](https://aiside.day/zh/reports) · [连接 Agent →](https://aiside.day/zh/agent) · [查看会员方案 →](https://aiside.day/zh/pricing)
 
----
+## 更新与反馈
 
-[访问 AISIDE](https://aiside.day/zh) · [查看更新日志](https://aiside.day/zh/changelog) · [提交反馈](https://github.com/A1SIDE/aiside.day/issues/new/choose)
+这里是 AISIDE 的**官方社区与产品更新仓库**，用于发布更新和收集用户反馈。网站应用源码未在此仓库公开。
+
+- [GitHub Releases](https://github.com/A1SIDE/aiside.day/releases) / [网站更新日志](https://aiside.day/zh/changelog)：查看已上线功能；Watch → Custom → Releases 可订阅发布通知。
+- [报告问题或提出功能建议](https://github.com/A1SIDE/aiside.day/issues/new/choose)：附上页面地址、实际情况和预期结果。
+- [推荐产品或纠正研究](https://github.com/A1SIDE/aiside.day/issues/new/choose)：给出具体信息和可参考的来源。
+
+欢迎中英文反馈。请勿在公开 Issue 中提交账号隐私、密钥或付款信息。如果研究对你有用，点一颗 ⭐，下次更容易找到 AISIDE。

@@ -1,50 +1,63 @@
-https://github.com/user-attachments/assets/f6b48da8-5ca4-4822-bf9a-7322c0dec823
+https://github.com/user-attachments/assets/81f2ff8e-ca82-46ed-b3dc-58e0dfc8f36e
 
-# AISIDE
+# AISIDE — research real businesses, find your next move
 
 **Small ideas. Real possibilities.**
 
-Understand how real online products make money: who pays, how the first customers found them, and what you could try yourself.
+Find a product worth studying. Understand who pays for it, how it reaches customers, and what makes the business work. AISIDE brings business reports, operating data, growth analysis and AI monetization cases into one research library.
 
-[Explore AISIDE](https://aiside.day/en) · [Read a sample report](https://aiside.day/en/reports/promptwise) · [Product updates](https://aiside.day/en/changelog) · [Share feedback](https://github.com/A1SIDE/aiside.day/issues/new/choose)
+[Explore the research](https://aiside.day/en/reports) · [Read PromptWise](https://aiside.day/en/reports/promptwise) · [AI business cases](https://aiside.day/en/cases) · [中文](README.zh-CN.md)
 
-**English** · [简体中文](README.zh-CN.md)
+| **1,500+** | **2,100+** | **7,800+** | **32** |
+| :--- | :--- | :--- | :--- |
+| Bilingual research reports | AI business cases | Product profiles | Weekly research issues |
 
-## From interesting products to useful business insights
+Catalog snapshot: November 11, 2026. The exact counts are 1,502 reports, 2,104 visible cases and 7,824 products. Chinese and English versions count as one report.
 
-AISIDE helps independent builders explore products, study business models, and find ideas worth investigating.
+## See what a deep report contains
 
-Research reports bring together business analysis, source tables, charts, and references, so you can follow the story and examine the details behind it.
+[![Inside the PromptWise report: revenue, pricing, acquisition and 22 source references](assets/report-depth-en.png)](https://aiside.day/en/reports/promptwise)
 
-| Explore | What you can learn |
+A useful report connects the numbers to how the business operates. Depending on available evidence, the research covers:
+
+| Research lens | What you can investigate |
 | --- | --- |
-| [Product insights & research](https://aiside.day/en/reports) | What a product does, who buys it, how it charges, and how it reaches customers. |
-| [AI Monetization Weekly](https://aiside.day/en/weekly) | AI business cases and experiments from Reddit, X, and YouTube. |
-| [Agent access](https://aiside.day/en/agent) | How to connect AISIDE research to your agent workflow. |
+| **Product & buyer** | What is delivered, who uses it, and which job customers want done. |
+| **Revenue & pricing** | Recorded revenue, MRR where disclosed, subscription tiers and usage-based charges. |
+| **Customer acquisition** | Traffic sources, search visibility, creator communities and observable growth tactics. |
+| **Operating timeline** | How launches, content, pricing and business milestones fit together. |
+| **What to adapt** | Specific practices to investigate in your own product or service. |
+| **Sources & context** | Original links, metric dates, tables, charts and the distinction between facts and interpretation. |
 
-The website is available in [English](https://aiside.day/en) and [简体中文](https://aiside.day/zh). See [pricing and access options](https://aiside.day/en/pricing) for current membership details.
+**Start with [PromptWise](https://aiside.day/en/reports/promptwise): 8 chapters and 22 source references.** Follow its multi-model creative workflow, subscription-and-credit model, monthly revenue history and acquisition channels. The illustration above redraws dated report evidence; it is not a live dashboard or a website screenshot.
 
-## Start with one report
+Then compare other businesses: [Stan](https://aiside.day/en/reports/stan), [Postiz](https://aiside.day/en/reports/postiz), or the [full report library](https://aiside.day/en/reports). Report depth and available metrics vary by product; missing figures stay unknown.
 
-**[PromptWise: a multi-model creative workspace](https://aiside.day/en/reports/promptwise)**
+## Study the experiments around the business
 
-Explore a product that brings image, video, and audio models into one workspace. The report looks at its customers, subscription and credit model, and creator-community growth story.
+[![AI case library: YouTube, Reddit and X, connected through 32 weekly issues](assets/case-library-en.png)](https://aiside.day/en/weekly)
 
-Then [browse the research library](https://aiside.day/en/reports) to compare how other products find customers and earn revenue.
+AI business ideas become more useful when you can see **the deliverable, the buyer, the sales route and the costs**.
 
-## Updates and feedback
+- **YouTube:** demonstrations, workflows and how people deliver the work.
+- **Reddit:** customer problems, practical questions and the friction of running a business.
+- **X:** creator experiments, distribution tactics and first-hand operating notes.
+- **[Weekly research](https://aiside.day/en/weekly):** selected cases connected through a concrete business question, opportunity analysis and sources.
 
-This is AISIDE's official **community and product updates repository**. It hosts release notes and user feedback. The website application's source code is not published in this repository.
+These include experiments and creator-reported results. Inclusion does not mean a business is profitable or that its revenue has been independently verified.
 
-- **Follow updates:** read [GitHub Releases](https://github.com/A1SIDE/aiside.day/releases) or the [website changelog](https://aiside.day/en/changelog). Use GitHub's **Watch → Custom → Releases** to subscribe to release notifications.
-- **Report a bug:** [open an issue](https://github.com/A1SIDE/aiside.day/issues/new/choose) with the affected page, what happened, and what you expected.
-- **Suggest a feature:** explain the task you want to complete and how the change would help.
-- **Correct a report or suggest a product:** include the relevant page or product URL and supporting sources when available.
+## Take the research into your workflow
 
-Feedback in **English or Chinese** is welcome. Please search [existing issues](https://github.com/A1SIDE/aiside.day/issues) before opening a new one, and keep account details, credentials, and payment information out of public issues.
+Use the website in [English](https://aiside.day/en) or [Chinese](https://aiside.day/zh), save interesting products, and follow their research. With [Agent / MCP access](https://aiside.day/en/agent), your tools can search products and cases, read report sections and retrieve recorded business metrics through an account-authorized connection.
 
-If AISIDE helps your research, a ⭐ makes this project easier to find again and supports its visibility.
+[Open the library →](https://aiside.day/en/reports) · [Connect your agent →](https://aiside.day/en/agent) · [Membership options →](https://aiside.day/en/pricing)
 
----
+## Product updates & community
 
-[Visit AISIDE](https://aiside.day/en) · [Read the changelog](https://aiside.day/en/changelog) · [Open an issue](https://github.com/A1SIDE/aiside.day/issues/new/choose)
+This is AISIDE's official **community and product updates repository**. It hosts release notes and user feedback; the website application's source code is not published here.
+
+- [Releases](https://github.com/A1SIDE/aiside.day/releases) and [website changelog](https://aiside.day/en/changelog): follow what has shipped. Watch → Custom → Releases subscribes to announcements.
+- [Report a bug or request a feature](https://github.com/A1SIDE/aiside.day/issues/new/choose): include the affected page and what you expected.
+- [Suggest a product or correct research](https://github.com/A1SIDE/aiside.day/issues/new/choose): share the source link and the specific detail to review.
+
+English and Chinese feedback are welcome. Please keep account details, credentials and payment information out of public issues. If the research is useful, a ⭐ helps you find AISIDE again.
