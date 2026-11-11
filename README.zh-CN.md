@@ -1,6 +1,4 @@
-[![AISIDE · 小生意，大可能。](assets/aiside-promo-cover.png)](https://github.com/A1SIDE/aiside.day/releases/download/updates-2026-11-11/aiside-promo.mp4)
-
-[观看 40 秒宣传片](https://github.com/A1SIDE/aiside.day/releases/download/updates-2026-11-11/aiside-promo.mp4) · [访问 AISIDE](https://aiside.day/zh)
+https://github.com/user-attachments/assets/34fdb825-1e12-41a5-bebb-5e71eec65296
 
 # AISIDE
 
