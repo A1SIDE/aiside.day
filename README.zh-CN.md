@@ -1,8 +1,10 @@
-[![AISIDE — Small ideas. Real possibilities.](assets/banner.svg)](https://aiside.day)
+[![AISIDE · 小生意，大可能。](assets/aiside-promo-cover.png)](https://github.com/A1SIDE/aiside.day/releases/download/updates-2026-11-11/aiside-promo.mp4)
+
+[观看 40 秒宣传片](https://github.com/A1SIDE/aiside.day/releases/download/updates-2026-11-11/aiside-promo.mp4) · [访问 AISIDE](https://aiside.day/zh)
 
 # AISIDE
 
-**小想法，真实的可能性。**
+**小生意，大可能。**
 
 研究真实的线上产品如何赚钱：谁在付费，第一批客户从哪里来，以及有哪些思路值得自己尝试。
 
