@@ -1,0 +1,45 @@
+name: Bug report / 问题反馈
+description: Something is not working on AISIDE / 网站功能异常
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve AISIDE. English and Chinese are welcome.
+        Please search existing issues first. Remove personal information, tokens and payment details from screenshots or logs.
+        欢迎使用中文或英文；请先搜索已有问题，并隐藏截图或日志中的隐私信息。
+  - type: input
+    id: page
+    attributes:
+      label: Page URL / 页面链接
+      description: The AISIDE page where this happened.
+      placeholder: https://aiside.day/en/reports/...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / 复现步骤
+      placeholder: |
+        1. Open the page
+        2. Click ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected-and-actual
+    attributes:
+      label: Expected and actual behavior / 预期与实际结果
+      description: What should happen, and what happened instead?
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Device and browser / 设备与浏览器
+      placeholder: iPhone · Safari, or macOS · Chrome
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots or extra details / 截图或补充信息
+      description: Optional. Include an error message or approximate time if useful.

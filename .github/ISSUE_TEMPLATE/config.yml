@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Explore AISIDE / 浏览网站
+    url: https://aiside.day/en
+    about: Browse products, research reports and AI business cases.
+  - name: Product changelog / 网站更新日志
+    url: https://aiside.day/en/changelog
+    about: See what has changed on AISIDE.

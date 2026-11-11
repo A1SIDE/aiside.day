@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<rect width="1280" height="640" fill="#f3f6e9"/>
+<rect x="0" y="0" width="1280" height="12" fill="#31583f"/>
+<g transform="translate(80 74) scale(1.7)"><g fill="none"><rect x="1" y="1" width="62" height="62" rx="18" fill="#f3f6e9"/><g stroke-width="1.6" stroke-linejoin="round"><path d="m32 8 22 12.5L32 33 10 20.5 32 8Z" fill="#e3edcf" stroke="#789460"/><path d="m10 20.5 22 12.5v24L10 44V20.5Z" fill="#b0c897" fill-opacity=".8" stroke="#789460"/><path d="m32 33 22-12.5V44L32 57V33Z" fill="#31583f" stroke="#31583f"/><path d="m32 20 11 6.2L32 32.5l-11-6.3L32 20Z" fill="#fffef3" stroke="#8ca873"/><path d="m14 23 14.5 8.4V50" stroke="#f5f9e8"/></g><circle cx="55" cy="10" r="3" fill="#baa15f"/></g></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#244333">
+<text x="215" y="145" font-size="54" font-weight="700" letter-spacing="3">AISIDE</text>
+<text x="84" y="280" font-size="62" font-weight="700">Small ideas.</text>
+<text x="84" y="355" font-size="62" font-weight="700">Real possibilities.</text>
+<text x="87" y="420" font-size="25" fill="#52664d">Research how real online products make money.</text>
+<text x="87" y="553" font-size="21" fill="#52664d">PRODUCT RESEARCH  /  AI BUSINESS CASES</text>
+<text x="1035" y="553" font-size="25" font-weight="700">aiside.day</text></g>
+<g transform="translate(880 175) scale(4.4)"><g fill="none"><rect x="1" y="1" width="62" height="62" rx="18" fill="#f3f6e9"/><g stroke-width="1.6" stroke-linejoin="round"><path d="m32 8 22 12.5L32 33 10 20.5 32 8Z" fill="#e3edcf" stroke="#789460"/><path d="m10 20.5 22 12.5v24L10 44V20.5Z" fill="#b0c897" fill-opacity=".8" stroke="#789460"/><path d="m32 33 22-12.5V44L32 57V33Z" fill="#31583f" stroke="#31583f"/><path d="m32 20 11 6.2L32 32.5l-11-6.3L32 20Z" fill="#fffef3" stroke="#8ca873"/><path d="m14 23 14.5 8.4V50" stroke="#f5f9e8"/></g><circle cx="55" cy="10" r="3" fill="#baa15f"/></g></g>
+</svg>

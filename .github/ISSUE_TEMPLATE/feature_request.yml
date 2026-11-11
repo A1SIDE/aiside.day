@@ -1,0 +1,28 @@
+name: Feature request / 功能建议
+description: Suggest a better way to use AISIDE / 提出产品改进建议
+title: "[Feature] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us what you are trying to do. English and Chinese are welcome.
+        欢迎用中文或英文描述你的使用场景；请先搜索已有建议。
+  - type: textarea
+    id: need
+    attributes:
+      label: What are you trying to do? / 你想完成什么？
+      description: Describe your task and what makes it difficult today.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement / 你的建议
+      description: What would make this task easier?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Examples or workarounds / 参考示例或现有替代方法
+      description: Optional. Links and a short example are useful.

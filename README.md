@@ -1,3 +1,5 @@
+[![AISIDE — Small ideas. Real possibilities.](assets/banner.svg)](https://aiside.day)
+
 # AISIDE
 
 **Small ideas. Real possibilities.**
