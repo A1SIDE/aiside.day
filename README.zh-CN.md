@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/81f2ff8e-ca82-46ed-b3dc-58e0dfc8f36e
 
 默认展示 **216 个精选插件**，按具体用途、差异和商业研究价值筛选。**16 个已有深度报告的产品固定置顶**，从工具用途进一步看懂它的生意。支持分类、用户数与评分比较，也可切回 **6,313 个插件的完整目录**；已有收藏继续保留。
 
-[打开产品库 →](https://aiside.day/zh/discover)
+[打开产品库 →](https://aiside.day/zh/projects)
 
 ## 把研究带进自己的工作流
 
