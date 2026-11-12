@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/81f2ff8e-ca82-46ed-b3dc-58e0dfc8f36e
+https://github.com/user-attachments/assets/381c8ba9-8b9a-4d11-a25f-9bbddeaae10e
 
 # AISIDE · 看懂真实生意，找到下一步机会
 
