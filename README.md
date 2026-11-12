@@ -50,7 +50,7 @@ These include experiments and creator-reported results. Inclusion does not mean 
 
 The directory now starts with **216 curated extensions** selected for concrete use cases and distinct workflows. **16 products with published research stay pinned**, making it easy to move from a useful tool to its business story. Browse by category, compare recorded users and reviews, or switch to the **full 6,313-extension catalog**. Your saved products remain available.
 
-[Explore the product directory →](https://aiside.day/en/discover)
+[Explore the product directory →](https://aiside.day/en/projects)
 
 ## Take the research into your workflow
 
