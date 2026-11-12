@@ -46,6 +46,12 @@ AI business ideas become more useful when you can see **the deliverable, the buy
 
 These include experiments and creator-reported results. Inclusion does not mean a business is profitable or that its revenue has been independently verified.
 
+## Find useful Chrome extensions faster
+
+The directory now starts with **216 curated extensions** selected for concrete use cases and distinct workflows. **16 products with published research stay pinned**, making it easy to move from a useful tool to its business story. Browse by category, compare recorded users and reviews, or switch to the **full 6,313-extension catalog**. Your saved products remain available.
+
+[Explore the product directory →](https://aiside.day/en/discover)
+
 ## Take the research into your workflow
 
 Use the website in [English](https://aiside.day/en) or [Chinese](https://aiside.day/zh), save interesting products, and follow their research. With [Agent / MCP access](https://aiside.day/en/agent), your tools can search products and cases, read report sections and retrieve recorded business metrics through an account-authorized connection.
